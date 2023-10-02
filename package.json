@@ -1,6 +1,6 @@
 {
-  "name": "use-infinite-scroll",
-  "version": "1.0.0",
+  "name": "@mikexrmn/use-infinite-scroll",
+  "version": "1.0.1",
   "description": "A custom hook for infinite scrolling in React",
   "main": "dist/useInfiniteScroll.js",
   "types": "dist/useInfiniteScroll.d.ts",
